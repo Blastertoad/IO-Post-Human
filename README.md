@@ -8,5 +8,7 @@ Awaken as a robotic probe, and explore as you uncover the history of a once grea
 
 # Team
 System design and development: Jaden Drysdale aka BlasterToad
+
 Art direction, assets and materials: 
+
 Sound design and music: 
