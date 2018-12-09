@@ -1,13 +1,13 @@
 # Unreal Generated Files
-Binaries/*
-Build/*
+UE4-Project/IO_PostHuman/Binaries/*
+UE4-Project/IO_PostHuman/Build/*
 !Build/**/*.ico
-Content/StarterContent/*
-DerivatedDataCache/*
-Intermediate/*
-Saved/*
-SourceArt/**/*.png
-SourceArt/**/*.tga
+UE4-Project/IO_PostHuman/Content/StarterContent/*
+UE4-Project/IO_PostHuman/DerivatedDataCache/*
+UE4-Project/IO_PostHuman/Intermediate/*
+UE4-Project/IO_PostHuman/Saved/*
+UE4-Project/IO_PostHuman/SourceArt/**/*.png
+UE4-Project/IO_PostHuman/SourceArt/**/*.tga
  
 # Visual Studio Generated Files
 *.a
@@ -45,13 +45,3 @@ contents.xcworkspacedata
 ehthumbs.db
 ehthumbs_vista.db
 Thumbs.db
- 
-# macOS
-.apdisk
-.AppleDB
-.AppleDesktop
-.AppleDouble
-*.DS_Store
-.LSOverride
-Network Trash Folder
-Temporary Items
