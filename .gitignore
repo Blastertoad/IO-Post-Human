@@ -3,7 +3,7 @@ UE4-Project/IO_PostHuman/Binaries/*
 UE4-Project/IO_PostHuman/Build/*
 !Build/**/*.ico
 UE4-Project/IO_PostHuman/Content/StarterContent/*
-DerivatedDataCache/*
+UE4-Project/IO_PostHuman/DerivatedDataCache/*
 UE4-Project/IO_PostHuman/Intermediate/*
 UE4-Project/IO_PostHuman/Saved/*
 UE4-Project/IO_PostHuman/SourceArt/**/*.png
@@ -45,13 +45,3 @@ contents.xcworkspacedata
 ehthumbs.db
 ehthumbs_vista.db
 Thumbs.db
- 
-# macOS
-.apdisk
-.AppleDB
-.AppleDesktop
-.AppleDouble
-*.DS_Store
-.LSOverride
-Network Trash Folder
-Temporary Items
